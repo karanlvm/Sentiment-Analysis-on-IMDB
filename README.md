@@ -32,7 +32,8 @@ For a more in-depth analysis of the project, including performance metrics, hype
 ---
 
 ## Authors
-Author 1: Karan Vasudevamurthy
-Author 2: Suraj Kalyampudi
-Author 3: Sai Krishna Movva Jaya
+
+- [Suraj Kalyampudi](https://www.github.com/SurajKalyampud)
+- [Karan Vasudevamurthy](https://github.com/karanlvm)
+- [Sai Krishna Movva Jaya](https://www.github.com/SKrishnaMJ)
 
